@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Viet Anh Nguyen
-* Student ID: BA12-009
+* Student Name: Pham Tung Anh
+* Student ID: BA12-010
 * Student Group ID: Not-for-now
